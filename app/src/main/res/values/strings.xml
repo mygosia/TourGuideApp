@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="category_nature">Przyroda</string>
+    <string name="nature_title_1">Białowieski Park Narodowy</string>
+    <string name="nature_subtitle_1">34,5 km tras turystycznych</string>
+    <string name="nature_content_1">Ochrona ostatniego w Europie fragmentu
+        lasu pierwotnego oraz liczącej kilkaset sztuk, największej na świecie wolnościowej populacji żubra</string>
+
+    <string name="nature_title_2">Biebrzański Park Narodowy</string>
+    <string name="nature_subtitle_2">798km tras turystycznych</string>
+    <string name="nature_content_2">Zbiorowiska wodne, bagienne, torfowiskowe, szuwary, a także zbiorowiska leśne (olsy, brzeziny, łęgi),
+        cenna jest duża grupa zbiorowisk mechowiskowych, zawierających liczne gatunki rzadkie i reliktowe</string>
+
+    <string name="nature_title_3">Narwiański Park Narodowy</string>
+    <string name="nature_subtitle_3">248km tras turystycznych</string>
+    <string name="nature_content_3"> 58 zbiorowisk roślinnych. Przeważa roślinność bagienna - zbiorowiska wielkoturzycowe i szuwarowe.
+        Na obrzeżach występują łąki, olsy i zarośla wierzbowe.
+        Ponadto występują mineralne wzniesienia (grądziki), porośnięte przez traworośla, zbiorowiska łąkowe i grądowe. </string>
+
+
+
+    <string name="category_food">Jedzenie</string>
+    <string name="food_title_1">Sękacz</string>
+    <string name="food_subtitle_1">dziad, bankuch, kołacz</string>
+    <string name="food_content_1">wypiek cukierniczy z ciasta biszkoptowo-tłuszczowego,
+        pieczonego nad otwartym ogniem na obracającym się rożnie w kształcie drewnianego wałka lub wydłużonego stożka</string>
+
+    <string name="food_title_2">Bimber</string>
+    <string name="food_subtitle_2">Samogon, księżycówka</string>
+    <string name="food_content_2">Wysokoprocentowy napój alkoholowy produkowany w warunkach amatorskich, otrzymywany z najtańszych produktów
+        (zboże, ziemniaki, cukierki, cukier, melasa) bez dodatkowej rektyfikacji, jest bezbarwny i ma ostry, nieprzyjemny zapach,</string>
+
+    <string name="food_title_3">Kartacze</string>
+    <string name="food_subtitle_3">cepeliny</string>
+    <string name="food_content_3">Pyzy z masy ziemniaczanej (tarte ziemniaki surowe i gotowane)nadziewane przyprawionym (np. czosnkiem) mięsem mielonym</string>
+
+    <string name="food_title_4">Marcinek</string>
+    <string name="food_subtitle_4">hajnowski</string>
+    <string name="food_content_4">Ciasto z wypieczonych 20–30 cienkich placków, przekładanych masą śmietanową o "lekko kwaskowym smaku"</string>
+
+    <string name="food_title_5">Mrowisko</string>
+    <string name="food_subtitle_5">ciasto</string>
+    <string name="food_content_5"> ciasto regionalne typowe dla kuchni litewskiej, które jest charakterystyczne dla Podlasia.
+        Są to jakby faworki oblane miodem, posypane makiem i rodzynkami.</string>
+
+
+    <string name="category_craft">Rekodzieło</string>
+    <string name="craft_title_1">Tkactwo dwuosnowowe</string>
+    <string name="cratf_subtitle_1">Janów, Marchelówka, Korycin</string>
+    <string name="craft_content_1">tkanina o splocie płóciennym, w dwóch kolorystycznych, dających się rozdzielić
+        pod palcami warstwach, przeplatających się wzdłuż krawędzi wzoru, w których lewa strona jest odwrotnością prawej</string>
+
+    <string name="craft_title_2">Pracowania łyżek</string>
+    <string name="cratf_subtitle_2">Zamczysk</string>
+    <string name="craft_content_2">Pan Mieczysław posługując się tradycyjnymi, prostymi narzędziami, wprawnymi ruchami,
+        potrafi bardzo szybko zamienić kawałek drewna w łyżkę.</string>
+
+    <string name="craft_title_3">Garncarstwo</string>
+    <string name="cratf_subtitle_3">Czarna Wieś Kościelna</string>
+    <string name="craft_content_3">Ceramika ta charakteryzuje się szarym kolorem powierzchni z metalicznym połyskiem,
+        wyjątkową barwę zawdzięczają glinie zawierającej żelazo.</string>
+
+    <string name="craft_title_4">Warsztat kowalski</string>
+    <string name="cratf_subtitle_4">Czarna Wieś Kościelna,</string>
+    <string name="craft_content_4"> Pan Mieczysław łączy elementy ludowe i artystyczne. Można tutaj spróbować swoich sił. </string>
+
+
+    <string name="category_animals">Fauna</string>
+    <string name="animals_title_1">Wilk</string>
+    <string name="animals_subtitle_1">Canis lupus</string>
+    <string name="animals_content_1">W kompleksach leśnych Podlasia podczas zimowych tropień doliczono się 28 wilczych watah z 194 osobnikami.</string>
+
+    <string name="animals_title_2">Żubr</string>
+    <string name="animals_subtitle_2">Bison bonasus</string>
+    <string name="animals_content_2">Występuje on głównie w lasach mieszanych z podmokłymi polanami. NaPodlasiu zyje około 400 sztuk.
+        Dziko żyjące żubry na podlasiu można spotkać w Puszczy Knyszyńskiej i Białowieskiej. </string>
+
+    <string name="animals_title_3">Ryś</string>
+    <string name="animals_subtitle_3">Lynx lynx</string>
+    <string name="animals_content_3">Na Podlasiu, dziko żyjącego rysia można zobaczyć głównie w Puszczy Białowieskiej oraz Augustowskiej i w Biebrzańskim Parku Narodowym.
+        Niestety jest tam już coraz rzadszym widokiem - na Podlasiu żyje około 40 osobników.</string>
+
+    <string name="animals_title_4">Łoś</string>
+    <string name="animals_subtitle_4">Alces alces</string>
+    <string name="animals_content_4">Najliczniej w naszym województwie łosie występują w dolinie Biebrzy. Mieszka tam około  650 osobników.
+        Poza tym zwierzęta te lubią przebywać w podmokłych lasach, borach bagiennych i olsach. </string>
+
+
+
+
+</resources>
