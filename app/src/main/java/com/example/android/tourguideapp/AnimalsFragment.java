@@ -37,7 +37,7 @@ public class AnimalsFragment extends Fragment {
         ItemAdapter adapter = new ItemAdapter(getActivity(), items);
 
         // Find the  ListView object
-        ListView listView = (ListView) rootView.findViewById(R.id.item_list);
+        ListView listView = rootView.findViewById(R.id.item_list);
 
         // Make the ListView use the WordAdapter we created above, so that the
         // ListView will display list items for each Item in the list.

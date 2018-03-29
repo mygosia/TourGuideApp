@@ -12,8 +12,6 @@ public class Item {
     private int mImageResourceId = NO_IMAGAE_PROVIDED;
     private static final int NO_IMAGAE_PROVIDED = -1;
 
-
-
     public Item(String titleText, String subtitleText, String contensText, int imageResourceId){
         mTitleText = titleText;
         mSubtitleText = subtitleText;
