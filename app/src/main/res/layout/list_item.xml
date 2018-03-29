@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:layout_margin="@dimen/margin"
+    android:orientation="vertical"
+    android:padding="@dimen/padding">
 
     <ImageView
         android:id="@+id/image_item"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:scaleType="center"
-        />
+        android:contentDescription="@string/itemImage"
+        android:scaleType="center" />
+
     <TextView
-        style="@style/titleStyle"
         android:id="@+id/title_text_view"
+        style="@style/titleStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:text="Tytuł"
-        />
+        android:gravity="center_horizontal"
+        tools:text="Tytuł" />
+
     <TextView
         android:id="@+id/subtitle_text_view"
+        style="@style/subtitleStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:text="Podtytuł"/>
+        tools:text="Podtytuł" />
+
     <TextView
         android:id="@+id/contents_text_view"
+        style="@style/contentStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:text="Wlazł kotek na płotek i mruga, nieduza to piosenka, ale mala, lalala, "/>
+        tools:text="Wlazł kotek na płotek i mruga, nieduza to piosenka, ale mala, lalala, " />
 
 </LinearLayout>

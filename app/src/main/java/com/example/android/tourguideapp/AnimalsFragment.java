@@ -1,14 +1,11 @@
 package com.example.android.tourguideapp;
 
-import android.content.Context;
-import android.media.AudioManager;
-import android.media.MediaPlayer;
+
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.support.v4.app.Fragment;
-import android.widget.AdapterView;
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -29,7 +26,7 @@ public class AnimalsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.item_list, container, false);
 
         // Create a list of words
-        final ArrayList<Item> items = new ArrayList<Item>();
+        final ArrayList<Item> items = new ArrayList<>();
 
         items.add(new Item(getResources().getString(R.string.animals_title_1), getResources().getString(R.string.animals_subtitle_1), getResources().getString(R.string.animals_content_1), R.drawable.wilk));
         items.add(new Item(getResources().getString(R.string.animals_title_2), getResources().getString(R.string.animals_subtitle_2), getResources().getString(R.string.animals_content_2), R.drawable.zubr));

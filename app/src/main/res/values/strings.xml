@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">TourGuideApp</string>
+    <string name="logo">Logo of Podlasie County</string>
+    <string name="itemImage">Image of item</string>
 
     <string name="category_nature">Przyroda</string>
     <string name="nature_title_1">Białowieski Park Narodowy</string>
@@ -17,8 +19,6 @@
     <string name="nature_content_3"> 58 zbiorowisk roślinnych. Przeważa roślinność bagienna - zbiorowiska wielkoturzycowe i szuwarowe.
         Na obrzeżach występują łąki, olsy i zarośla wierzbowe.
         Ponadto występują mineralne wzniesienia (grądziki), porośnięte przez traworośla, zbiorowiska łąkowe i grądowe. </string>
-
-
 
     <string name="category_food">Jedzenie</string>
     <string name="food_title_1">Sękacz</string>
@@ -85,8 +85,6 @@
     <string name="animals_subtitle_4">Alces alces</string>
     <string name="animals_content_4">Najliczniej w naszym województwie łosie występują w dolinie Biebrzy. Mieszka tam około  650 osobników.
         Poza tym zwierzęta te lubią przebywać w podmokłych lasach, borach bagiennych i olsach. </string>
-
-
 
 
 </resources>
