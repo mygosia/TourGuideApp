@@ -5,14 +5,8 @@
     android:layout_height="match_parent"
     android:layout_margin="@dimen/margin"
     android:orientation="vertical"
-    android:padding="@dimen/padding">
-
-    <ImageView
-        android:id="@+id/image_item"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:contentDescription="@string/itemImage"
-        android:scaleType="center" />
+    android:padding="15dp"
+    >
 
     <TextView
         android:id="@+id/title_text_view"
@@ -21,6 +15,13 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         tools:text="Tytuł" />
+
+    <ImageView
+        android:id="@+id/image_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/itemImage"
+        android:scaleType="center" />
 
     <TextView
         android:id="@+id/subtitle_text_view"
