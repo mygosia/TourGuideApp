@@ -18,7 +18,6 @@ public class CraftFragment extends Fragment {
     public CraftFragment() {
         // Required empty public constructor
     }
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
@@ -43,10 +42,5 @@ public class CraftFragment extends Fragment {
         listView.setAdapter(adapter);
 
         return rootView;
-
     }
-
-
-
-
 }

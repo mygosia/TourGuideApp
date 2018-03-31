@@ -19,7 +19,6 @@ public class AnimalsFragment extends Fragment {
     public AnimalsFragment() {
         // Required empty public constructor
     }
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
@@ -44,10 +43,5 @@ public class AnimalsFragment extends Fragment {
         listView.setAdapter(adapter);
 
         return rootView;
-
     }
-
-
-
-
 }

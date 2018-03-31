@@ -18,7 +18,6 @@ public class FoodFragment extends Fragment {
     public FoodFragment() {
         // Required empty public constructor
     }
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
@@ -37,17 +36,12 @@ public class FoodFragment extends Fragment {
         ItemAdapter adapter = new ItemAdapter(getActivity(), items);
 
         // Find the  ListView object
-        ListView listView =  rootView.findViewById(R.id.item_list);
+        ListView listView = rootView.findViewById(R.id.item_list);
 
         // Make the ListView use the ItemAdapter we created above, so that the
         // ListView will display list items for each Item in the list.
         listView.setAdapter(adapter);
 
         return rootView;
-
     }
-
-
-
-
 }
